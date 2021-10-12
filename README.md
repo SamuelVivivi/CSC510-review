@@ -784,7 +784,9 @@ UML deals with architecture, rather than with the whole system.
 
 #### 10. What kind of visual notation is the following diagram? State and explain all of it's parts.
 CRC card.
+
 ![Screen Shot 2016-05-02 at 9.35.39 PM.png](resources/CRCCard.png)
+
 -It’s a CRC cards, The first line is the class name, and sub boxes are responsibilities and collaborators of the diagram.
 
 #### 11. Propose and draw a class diagram equivalent to the above diagram.
